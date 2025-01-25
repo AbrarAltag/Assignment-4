@@ -1,2 +1,2 @@
 # Assignment-4
-Report on Agriculture technology advancement
+Newsletter on Agriculture technology advancement
